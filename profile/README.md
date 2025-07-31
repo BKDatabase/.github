@@ -8,6 +8,7 @@ Nói chung khác với BKDatabase chính, thì đây là hệ thống lưu trữ
 ## Các kho hiện có
 
 * `miraheze/mw-config` - kho cấu hình MediaWiki của dịch vụ lưu trữ dự án
+* Các kho đã fork từ nhiều bên như **Miraheze**, **Wikimedia** và skin như **Citizen**...
 * Các kho phục vụ cho nhiều mục đích khác nhau
 * Và có thể là Random Stuff...
 
