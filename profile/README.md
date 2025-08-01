@@ -19,4 +19,4 @@ Nói chung khác với BKDatabase chính, thì đây là hệ thống lưu trữ
 * Discord (Liên hệ tốt nhất): tphamtranba
 
 ## GIẤY PHÉP
-Nếu không có ghi chú khác, nội dung này được cấp phép Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+Blutiges Kareuz và toàn bộ nội dung liên quan, bao gồm BKDatabase, là sản phẩm sáng tạo mở do cộng đồng xây dựng và điều hành dưới sự phát hành của tác giả theo giấy phép Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) trừ khi có ghi chú khác.
