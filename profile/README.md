@@ -15,7 +15,7 @@ Nói chung khác với BKDatabase chính, thì đây là hệ thống lưu trữ
 ## LIÊN HỆ
 
 * Liên hệ chung với tác giả: `gdthihien[at]gmail.com`
-* Mastodon (Server chính thức): @Bapham123
+* Mastodon (Server chính thức): [@Bapham123](https://mastodon.social/@Bapham123)
 * Discord (Liên hệ tốt nhất): tphamtranba
 
 ## GIẤY PHÉP
