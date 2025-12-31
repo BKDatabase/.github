@@ -1,4 +1,4 @@
-![Site-logo](https://static.wikitide.net/blutigeskareuzwiki/a/ad/Neo-BlutigesKareuzLogo.png)
+![Site-logo](https://static.wikitide.net/blutigeskareuzwiki/e/e6/Neo-BlutigesKareuzLogo-NYV.png)
 
 # VỀ BKDATABASE ARCHIVE
 Đây là sub-project và trang Github chính thức của BKDatabase - Blutiges Kareuz: The Decline of The Millennium | Database.
