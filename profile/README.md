@@ -19,4 +19,4 @@ Nói chung khác với BKDatabase chính, thì đây là hệ thống lưu trữ
 * Discord (Liên hệ tốt nhất): tphamtranba
 
 ## GIẤY PHÉP
-Blutiges Kareuz và toàn bộ nội dung liên quan, bao gồm BKDatabase, là sản phẩm sáng tạo mở do cộng đồng xây dựng và điều hành dưới sự phát hành của tác giả theo giấy phép Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) trừ khi có ghi chú khác.
+Blutiges Kareuz và toàn bộ nội dung liên quan, bao gồm BKDatabase, là sản phẩm sáng tạo mở do cộng đồng xây dựng và điều hành dưới sự phát hành của tác giả theo giấy phép [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://blutigeskareuz.miraheze.org/wiki/BKDatabase:B%E1%BA%A3n_quy%E1%BB%81n/Tuy%C3%AAn_b%E1%BB%91_b%E1%BA%A3n_quy%E1%BB%81n_v%E1%BB%81_Blutiges_Kareuz:_The_Decline_of_The_Millennium) trừ khi có ghi chú khác.
