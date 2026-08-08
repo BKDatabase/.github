@@ -2,7 +2,7 @@
 
 <div align="center"><h1>
   
-***[Xem trang tài liệu trên BKDatabase](https://blutigeskareuz.miraheze.org/wiki/BKDatabase:BKDatabase_Archive)***
+**[Xem trang tài liệu trên BKDatabase](https://blutigeskareuz.miraheze.org/wiki/BKDatabase:BKDatabase_Archive)**
 
 </h1></div>
 
