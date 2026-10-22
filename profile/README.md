@@ -20,7 +20,7 @@ Nói chung khác với BKDatabase chính, thì đây là hệ thống lưu trữ
 
 ### LIÊN HỆ
 
-* Liên hệ chung với tác giả: `gdthihien99[at]gmail.com` hoặc `bapham12[at]outlook.com`
+* Liên hệ chung với tác giả: `gdthihien99[at]gmail.com`, `bapham12[at]outlook.com` hoặc `bapham123[at]proton.me`
 * Mastodon (Server chính thức): [@Bapham123](https://mastodon.social/@Bapham123)
 * Discord (Liên hệ tốt nhất): tphamtranba
 
